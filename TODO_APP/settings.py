@@ -25,7 +25,7 @@ SECRET_KEY = 'iepg8jmf#(-8_o3+f0z6a!7%%-7xm00_f@9=uj#5acx2o25%!+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['todo-app-sampriti.herokuapp.com','127.0.0.1']
 
 
 # Application definition
