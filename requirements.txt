@@ -24,7 +24,6 @@ defusedxml==0.6.0
 distlib==0.3.1
 Django==3.0
 djangorestframework==3.12.2
-en-core-web-lg==2.3.1
 entrypoints==0.3
 filelock==3.0.12
 google-play-scraper==0.1.2
